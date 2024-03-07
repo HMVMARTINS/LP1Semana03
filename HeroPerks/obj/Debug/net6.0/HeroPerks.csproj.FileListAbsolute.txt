@@ -1,0 +1,15 @@
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\HeroPerks\bin\Debug\net6.0\HeroPerks.exe
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\HeroPerks\bin\Debug\net6.0\HeroPerks.deps.json
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\HeroPerks\bin\Debug\net6.0\HeroPerks.runtimeconfig.json
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\HeroPerks\bin\Debug\net6.0\HeroPerks.dll
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\HeroPerks\bin\Debug\net6.0\HeroPerks.pdb
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\HeroPerks\obj\Debug\net6.0\HeroPerks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\HeroPerks\obj\Debug\net6.0\HeroPerks.AssemblyInfoInputs.cache
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\HeroPerks\obj\Debug\net6.0\HeroPerks.AssemblyInfo.cs
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\HeroPerks\obj\Debug\net6.0\HeroPerks.csproj.CoreCompileInputs.cache
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\HeroPerks\obj\Debug\net6.0\HeroPerks.sourcelink.json
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\HeroPerks\obj\Debug\net6.0\HeroPerks.dll
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\HeroPerks\obj\Debug\net6.0\refint\HeroPerks.dll
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\HeroPerks\obj\Debug\net6.0\HeroPerks.pdb
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\HeroPerks\obj\Debug\net6.0\HeroPerks.genruntimeconfig.cache
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\HeroPerks\obj\Debug\net6.0\ref\HeroPerks.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rBk8QiYcnqoFvG0/YgXcNHTXNchdeNKHVYZo37PvmnLEoBgjJBzk01+bAcPMWVzpPortoX8CNAyaUxDtwwp0QA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Proprietário\\MinhaPastaDeLP1\\LP1Semana03\\HeroPerks\\HeroPerks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Proprietário\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Proprietário\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Proprietário\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Proprietário\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
