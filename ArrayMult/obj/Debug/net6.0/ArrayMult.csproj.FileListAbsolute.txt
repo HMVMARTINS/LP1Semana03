@@ -1,0 +1,15 @@
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ArrayMult\bin\Debug\net6.0\ArrayMult.exe
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ArrayMult\bin\Debug\net6.0\ArrayMult.deps.json
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ArrayMult\bin\Debug\net6.0\ArrayMult.runtimeconfig.json
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ArrayMult\bin\Debug\net6.0\ArrayMult.dll
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ArrayMult\bin\Debug\net6.0\ArrayMult.pdb
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ArrayMult\obj\Debug\net6.0\ArrayMult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ArrayMult\obj\Debug\net6.0\ArrayMult.AssemblyInfoInputs.cache
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ArrayMult\obj\Debug\net6.0\ArrayMult.AssemblyInfo.cs
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ArrayMult\obj\Debug\net6.0\ArrayMult.csproj.CoreCompileInputs.cache
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ArrayMult\obj\Debug\net6.0\ArrayMult.sourcelink.json
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ArrayMult\obj\Debug\net6.0\ArrayMult.dll
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ArrayMult\obj\Debug\net6.0\refint\ArrayMult.dll
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ArrayMult\obj\Debug\net6.0\ArrayMult.pdb
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ArrayMult\obj\Debug\net6.0\ArrayMult.genruntimeconfig.cache
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ArrayMult\obj\Debug\net6.0\ref\ArrayMult.dll

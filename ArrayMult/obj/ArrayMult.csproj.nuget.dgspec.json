@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Proprietário\\MinhaPastaDeLP1\\LP1Semana03\\RightSize\\RightSize.csproj": {}
+    "C:\\Users\\Proprietário\\MinhaPastaDeLP1\\LP1Semana03\\ArrayMult\\ArrayMult.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Proprietário\\MinhaPastaDeLP1\\LP1Semana03\\RightSize\\RightSize.csproj": {
+    "C:\\Users\\Proprietário\\MinhaPastaDeLP1\\LP1Semana03\\ArrayMult\\ArrayMult.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Proprietário\\MinhaPastaDeLP1\\LP1Semana03\\RightSize\\RightSize.csproj",
-        "projectName": "RightSize",
-        "projectPath": "C:\\Users\\Proprietário\\MinhaPastaDeLP1\\LP1Semana03\\RightSize\\RightSize.csproj",
+        "projectUniqueName": "C:\\Users\\Proprietário\\MinhaPastaDeLP1\\LP1Semana03\\ArrayMult\\ArrayMult.csproj",
+        "projectName": "ArrayMult",
+        "projectPath": "C:\\Users\\Proprietário\\MinhaPastaDeLP1\\LP1Semana03\\ArrayMult\\ArrayMult.csproj",
         "packagesPath": "C:\\Users\\Proprietário\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Proprietário\\MinhaPastaDeLP1\\LP1Semana03\\RightSize\\obj\\",
+        "outputPath": "C:\\Users\\Proprietário\\MinhaPastaDeLP1\\LP1Semana03\\ArrayMult\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Proprietário\\AppData\\Roaming\\NuGet\\NuGet.Config",

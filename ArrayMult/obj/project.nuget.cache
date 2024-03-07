@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9fogWiCdP0okvbOUN7Fms5oC7Nztx+593jJB8GQZWqucM3o/24U64V3piu/M+WJh95R7i1jr2rHxFnHlAM4ZBA==",
+  "dgSpecHash": "xjx8CZZqct68uag6dhy0ordW2PoCemfRV3s2PgXgzENXbcnLZOxztooq0Ei2T5QVXvskAjxKRplD+PnSwH42GA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Proprietário\\MinhaPastaDeLP1\\LP1Semana03\\RightSize\\RightSize.csproj",
+  "projectFilePath": "C:\\Users\\Proprietário\\MinhaPastaDeLP1\\LP1Semana03\\ArrayMult\\ArrayMult.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Proprietário\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
     "C:\\Users\\Proprietário\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
