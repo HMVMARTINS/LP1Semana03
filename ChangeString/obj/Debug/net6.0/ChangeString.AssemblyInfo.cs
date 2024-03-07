@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChangeString")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3ef60d87d713cee86fb0a357daa4997d82ecff8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adf42062b021823ae89a072f2709f4fcb63ef63e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChangeString")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChangeString")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
