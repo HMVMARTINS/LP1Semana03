@@ -1,0 +1,15 @@
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ChangeString\bin\Debug\net6.0\ChangeString.exe
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ChangeString\bin\Debug\net6.0\ChangeString.deps.json
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ChangeString\bin\Debug\net6.0\ChangeString.runtimeconfig.json
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ChangeString\bin\Debug\net6.0\ChangeString.dll
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ChangeString\bin\Debug\net6.0\ChangeString.pdb
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ChangeString\obj\Debug\net6.0\ChangeString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ChangeString\obj\Debug\net6.0\ChangeString.AssemblyInfoInputs.cache
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ChangeString\obj\Debug\net6.0\ChangeString.AssemblyInfo.cs
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ChangeString\obj\Debug\net6.0\ChangeString.csproj.CoreCompileInputs.cache
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ChangeString\obj\Debug\net6.0\ChangeString.sourcelink.json
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ChangeString\obj\Debug\net6.0\ChangeString.dll
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ChangeString\obj\Debug\net6.0\refint\ChangeString.dll
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ChangeString\obj\Debug\net6.0\ChangeString.pdb
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ChangeString\obj\Debug\net6.0\ChangeString.genruntimeconfig.cache
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\ChangeString\obj\Debug\net6.0\ref\ChangeString.dll
