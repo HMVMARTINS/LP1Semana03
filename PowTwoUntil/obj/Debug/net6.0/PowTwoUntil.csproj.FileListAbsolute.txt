@@ -1,0 +1,15 @@
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\PowTwoUntil\bin\Debug\net6.0\PowTwoUntil.exe
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\PowTwoUntil\bin\Debug\net6.0\PowTwoUntil.deps.json
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\PowTwoUntil\bin\Debug\net6.0\PowTwoUntil.runtimeconfig.json
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\PowTwoUntil\bin\Debug\net6.0\PowTwoUntil.dll
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\PowTwoUntil\bin\Debug\net6.0\PowTwoUntil.pdb
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\PowTwoUntil\obj\Debug\net6.0\PowTwoUntil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\PowTwoUntil\obj\Debug\net6.0\PowTwoUntil.AssemblyInfoInputs.cache
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\PowTwoUntil\obj\Debug\net6.0\PowTwoUntil.AssemblyInfo.cs
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\PowTwoUntil\obj\Debug\net6.0\PowTwoUntil.csproj.CoreCompileInputs.cache
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\PowTwoUntil\obj\Debug\net6.0\PowTwoUntil.sourcelink.json
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\PowTwoUntil\obj\Debug\net6.0\PowTwoUntil.dll
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\PowTwoUntil\obj\Debug\net6.0\refint\PowTwoUntil.dll
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\PowTwoUntil\obj\Debug\net6.0\PowTwoUntil.pdb
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\PowTwoUntil\obj\Debug\net6.0\PowTwoUntil.genruntimeconfig.cache
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\PowTwoUntil\obj\Debug\net6.0\ref\PowTwoUntil.dll
