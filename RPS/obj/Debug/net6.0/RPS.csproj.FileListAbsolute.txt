@@ -1,0 +1,15 @@
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\RPS\bin\Debug\net6.0\RPS.exe
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\RPS\bin\Debug\net6.0\RPS.deps.json
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\RPS\bin\Debug\net6.0\RPS.runtimeconfig.json
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\RPS\bin\Debug\net6.0\RPS.dll
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\RPS\bin\Debug\net6.0\RPS.pdb
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\RPS\obj\Debug\net6.0\RPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\RPS\obj\Debug\net6.0\RPS.AssemblyInfoInputs.cache
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\RPS\obj\Debug\net6.0\RPS.AssemblyInfo.cs
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\RPS\obj\Debug\net6.0\RPS.csproj.CoreCompileInputs.cache
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\RPS\obj\Debug\net6.0\RPS.sourcelink.json
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\RPS\obj\Debug\net6.0\RPS.dll
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\RPS\obj\Debug\net6.0\refint\RPS.dll
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\RPS\obj\Debug\net6.0\RPS.pdb
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\RPS\obj\Debug\net6.0\RPS.genruntimeconfig.cache
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\RPS\obj\Debug\net6.0\ref\RPS.dll

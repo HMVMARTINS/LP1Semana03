@@ -1,0 +1,15 @@
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\FamousQuotes\bin\Debug\net6.0\FamousQuotes.exe
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\FamousQuotes\bin\Debug\net6.0\FamousQuotes.deps.json
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\FamousQuotes\bin\Debug\net6.0\FamousQuotes.runtimeconfig.json
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\FamousQuotes\bin\Debug\net6.0\FamousQuotes.dll
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\FamousQuotes\bin\Debug\net6.0\FamousQuotes.pdb
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\FamousQuotes\obj\Debug\net6.0\FamousQuotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\FamousQuotes\obj\Debug\net6.0\FamousQuotes.AssemblyInfoInputs.cache
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\FamousQuotes\obj\Debug\net6.0\FamousQuotes.AssemblyInfo.cs
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\FamousQuotes\obj\Debug\net6.0\FamousQuotes.csproj.CoreCompileInputs.cache
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\FamousQuotes\obj\Debug\net6.0\FamousQuotes.sourcelink.json
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\FamousQuotes\obj\Debug\net6.0\FamousQuotes.dll
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\FamousQuotes\obj\Debug\net6.0\refint\FamousQuotes.dll
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\FamousQuotes\obj\Debug\net6.0\FamousQuotes.pdb
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\FamousQuotes\obj\Debug\net6.0\FamousQuotes.genruntimeconfig.cache
+C:\Users\Proprietário\MinhaPastaDeLP1\LP1Semana03\FamousQuotes\obj\Debug\net6.0\ref\FamousQuotes.dll
